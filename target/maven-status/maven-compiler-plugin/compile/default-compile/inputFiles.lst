@@ -1,0 +1,7 @@
+/workspaces/practica/src/main/java/com/ej/demo/DemoApplication.java
+/workspaces/practica/src/main/java/com/ej/demo/config/Neo4jConfig.java
+/workspaces/practica/src/main/java/com/ej/demo/controller/MovieController.java
+/workspaces/practica/src/main/java/com/ej/demo/controller/Ping.java
+/workspaces/practica/src/main/java/com/ej/demo/model/MovieEntity.java
+/workspaces/practica/src/main/java/com/ej/demo/model/PersonEntity.java
+/workspaces/practica/src/main/java/com/ej/demo/repository/MovieRepository.java

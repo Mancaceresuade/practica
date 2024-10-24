@@ -1,0 +1,5 @@
+com/ej/demo/config/Neo4jConfig.class
+com/ej/demo/model/MovieEntity.class
+com/ej/demo/repository/MovieRepository.class
+com/ej/demo/model/PersonEntity.class
+com/ej/demo/controller/MovieController.class
